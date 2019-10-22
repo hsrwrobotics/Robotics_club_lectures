@@ -1,10 +1,11 @@
 # Lecutre notes and materials
 
-### Welcome to Github repository of HSRW Robotic Club. You can find in here source code, notebook and relevant materials regarding to the lecures we provide weekly. 
-
 <p align="center">
 <img src="./Logo.png" width=300 class="center">
  </p>
+
+### Welcome to Github repository of HSRW Robotic Club. You can find in here source code, notebook and relevant materials regarding to the lecures we provide weekly. 
+
  
 **1. Week 1: Introduction to Python***
 - In this week, we start the first lecture in Python programming. Python is a high-level, interpreted and general-purpose dynamic programming language that focuses on code redability. It is one of the most three common programming languages in the worlds and is use by Google, Yahoo, NASA, Facebook, Amazon, Instagram, etc. 
