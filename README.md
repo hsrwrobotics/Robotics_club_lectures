@@ -1,7 +1,7 @@
 # Lecture Notes and Materials
 
 <p align="center">
-<img src="./Logo.png" width=300 class="center">
+<img src="./Logo_1.png" width=200 class="center">
  </p>
 
 ### Welcome to Github repository of HSRW Robotic Club. You can find in here source codes, notebooks and relevant materials regarding the lecures we provide weekly.
