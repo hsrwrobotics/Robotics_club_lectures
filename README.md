@@ -26,7 +26,7 @@
 - Agenda:
     - Functions and classes: Source code will be updated later.
     - Jupyter notebook: Python IDE that contains live code, equatios, visualization and narrative test. You can see an example in  [here](https://www.kaggle.com/vikrishnan/house-sales-price-using-regression).
-    - Github: A hosting website for software development version control. Please refer to Github [homepage](https://github.com/)
+    - Github: A hosting website for software development version control. Please refer to Github [homepage](https://github.com/).
     - Library: numpy, matplotlib, time, webrowser
 
 
