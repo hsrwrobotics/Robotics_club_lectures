@@ -1,5 +1,5 @@
 # Functions
-**This session covers an introduction to functions.**
+**This session introduces one to functions and it's features.**
 
 ## Introduction
 Let's start with an abstract example of echoes. When you shout out anything, lets say from a rocky mountain or valley, the message bounces back repeatedly, but with a loss in the amplitude and the actual message. Let's try recreating that as code using the stuff we learned in the last session. In order to do that, we'll use the following prompts:
@@ -22,5 +22,5 @@ This is where functions come in to play. Functions allow us to "reuse" an entire
 **Script: []()**
 
 ## Recursive functions
-
-**Script: []()**
+Recursive functions are functions that call itself within its definition. A nifty feature when dealing with iterative processes that increment/decrement in fixed steps. The most common example to understand recursion is the calculation of factorial.
+**Script: [func_fact](https://github.com/hsrwrobotics/Robotics_club_lectures/blob/master/Week%202/Functions/func_fact.py)**
