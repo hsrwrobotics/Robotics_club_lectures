@@ -13,7 +13,7 @@
 - In this week, we start the first lecture in Python programming. Python is a high-level, interpreted and general-purpose dynamic programming language that focuses on code readability. It is one of the most three common programming languages in the worlds and is used by Google, Yahoo, NASA, Facebook, Amazon, Instagram, etc.
 - We will use *Anaconda*, a free and open-source distribution of the Python. Depending on your operating system, you need to find the compatible Anaconda packages in [here](https://docs.anaconda.com/anaconda/install/).
 - We recommend using the Spyder IDE for scripting your python codes, since it comes preinstalled with a ton of useful features.
-- An awesome book for Python which we recommend is "Automated the Boring Stuff with Python". You can refer to the online version [here](https://automatetheboringstuff.com/) or download the pdf file [here](http://bit.ly/31zqrjP).
+- An awesome book for Python which we recommend is "Automated the Boring Stuff with Python". You can refer to the online version [here](https://automatetheboringstuff.com/) or download the pdf file [here](http://bit.ly/2W6zTtN).
 - For people who prefer learning with video, we recommend the 6 hours Python Tutorial for Beginners by Mosh [here](https://www.youtube.com/watch?v=_uQrJ0TkZlc).
 - Agenda: 
     - Installing Anaconda Python
