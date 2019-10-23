@@ -20,11 +20,11 @@
     - Datatypes: variables, input, strings, lists, dictionaries
     - Control Flow: if statements, while loop, for loop.
 
-## Week 2:
+## [Week 2:](https://github.com/hsrwrobotics/Robotics_club_lectures/tree/master/Week%202)
 - Here we move on to more practical features of programming that make developing complex code much easier.
 - Github ia very informative platform
 - Agenda:
-    - Functions and classes: Source code will be updated later.
+    - [Functions and classes: Source code will be updated later](https://github.com/hsrwrobotics/Robotics_club_lectures/tree/master/Week%202/Functions).
     - Jupyter notebook: Python IDE that contains live code, equatios, visualization and narrative test. You can see an example in  [here](https://www.kaggle.com/vikrishnan/house-sales-price-using-regression).
     - Github: A hosting website for software development version control. Please refer to Github [homepage](https://github.com/).
     - Library: numpy, matplotlib, time, webrowser
