@@ -17,11 +17,10 @@ This is where functions come in to play. Functions allow us to "reuse" an entire
 **Script: [func_echo](https://github.com/hsrwrobotics/Robotics_club_lectures/blob/master/Week%202/Functions/func_echo.py)**
 
 ## Local variables and Return statements
+Return statements are used when you want to return a value from within the function. You should've noticed in the above codes, no variable or operations carried out inside a function is stored globally.
+The following script should be pretty self explanatory regarding local variables.
 
-***TBD***
-
-
-**Script: []()**
+**Script: [func_scope](https://github.com/hsrwrobotics/Robotics_club_lectures/blob/master/Week%202/Functions/func_scope.py)**
 
 ## Recursive functions
 Recursive functions are functions that call itself within its definition. A nifty feature when dealing with iterative processes that increment/decrement in fixed steps. The most common example to understand recursion is the calculation of factorial.
