@@ -25,11 +25,12 @@
 - Github ia very useful platform for sharing and collaborating on just about anything, that we highly recommend learning. It houses various projects, libraries and modules as open source.
 - The huge number of libraries available for python is what makes it so popular and easy to use to develop complex code.
 - Agenda:
-    - [Functions and classes: Source code will be updated later](https://github.com/hsrwrobotics/Robotics_club_lectures/tree/master/Week%202/Functions).
-    - Jupyter notebook: Python IDE that contains live code, equatios, visualization and narrative test. You can see an example in  [here](https://www.kaggle.com/vikrishnan/house-sales-price-using-regression).
+    - [Functions][1] and classes: Object oriented programming in Python.
+    - Jupyter notebook: Python IDE that contains live code, equations, visualization and narrative test. You can see an example in  [here](https://www.kaggle.com/vikrishnan/house-sales-price-using-regression).
     - Github: A hosting website for software development version control. Please refer to Github [homepage](https://github.com/).
     - Library: numpy, matplotlib, time, webrowser
 
 
 
 # The end
+[1]:https://github.com/hsrwrobotics/Robotics_club_lectures/tree/master/Week%202/Functions
