@@ -2,7 +2,8 @@
 """
 Created on Mon Oct 28 18:54:48 2019
 
-@author: Wolf
+HSRW Robotics
+@author: mtc-20
 """
 # Syntax errors
 print 10
