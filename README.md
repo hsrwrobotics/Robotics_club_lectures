@@ -9,6 +9,7 @@
 ## Content
  1. **[Week 1](#week-1)**
  2. **[Week 2](#week-2)**
+ 3. **[Week 3](#week-3)**
  
  
 ## Week 1:
@@ -27,12 +28,17 @@
 - Github ia very useful platform for sharing and collaborating on just about anything, that we highly recommend learning. It houses various projects, libraries and modules as open source.
 - The huge number of libraries available for python is what makes it so popular and easy to use to develop complex code.
 - **Agenda**:
-    - [Functions][1] and classes: Object oriented programming in Python.
+    - [Functions][1]: code re-usability in Python.
     - Jupyter notebook: Python IDE that contains live code, equations, visualization and narrative test. You can see an example in  [here](https://www.kaggle.com/vikrishnan/house-sales-price-using-regression).
     - Github: A hosting website for software development version control. Please refer to Github [homepage](https://github.com/).
     - Library: numpy, matplotlib, time, webrowser
 
-
-
+## [Week 3:](https://github.com/hsrwrobotics/Robotics_club_lectures/tree/master/Week%203)
+- We move onto more practical and useful faetures in Python
+- Object oriented programming is a very useful approach for creating encapsulated packages and especially when creating games
+- Try except blocks are the easiest ways of handling errors inbuilt in Python
+- **Agenda**:
+    - [Monday]: Introduction to classes and error handling
+    
 # The end
 [1]:https://github.com/hsrwrobotics/Robotics_club_lectures/tree/master/Week%202/Functions
