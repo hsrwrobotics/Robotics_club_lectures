@@ -38,7 +38,9 @@
 - Object oriented programming is a very useful approach for creating encapsulated packages and especially when creating games
 - Try except blocks are the easiest ways of handling errors inbuilt in Python
 - **Agenda**:
-    - [Monday]: Introduction to classes and error handling
-    
+    - [Monday][2]: Introduction to classes and error handling
+    - [Wednesday][3]: Developing your first text game using OOP
 # The end
 [1]:https://github.com/hsrwrobotics/Robotics_club_lectures/tree/master/Week%202/Functions
+[2]:https://github.com/hsrwrobotics/Robotics_club_lectures/tree/master/Week%203/Monday
+[3]:https://github.com/hsrwrobotics/Robotics_club_lectures/tree/master/Week%203/Wednesday
