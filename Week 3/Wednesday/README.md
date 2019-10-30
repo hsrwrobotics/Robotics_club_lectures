@@ -1,7 +1,10 @@
 # A primitive text-based RPG
-**This session delves into class inheritance and using libraries. A wholesome example that covers the range of basics in Python programming covered over the previous weeks: A simple text RPG game that lets the user perform a limited set of actions **
+**This session delves into class inheritance and using libraries. A wholesome example that covers the range of basics in Python programming covered over the previous weeks: A simple text RPG game that lets the user perform a limited set of actions**
 
 ## The Concept
+The concept is taken from the [Sololearn Python 3 tutorials](https://www.sololearn.com/Course/Python/).
+
+
 ### Classes
 A game object has a name, class/category name, a description and an object database --> super class
 
