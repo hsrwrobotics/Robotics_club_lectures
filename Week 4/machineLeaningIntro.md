@@ -1,7 +1,7 @@
 # Intro To A.I
 
 In this brief intro session we will be discussing breifly what A.I is. Why it is becoming popular. What are your interests and look at some
-intersting ways how A.I can help you. We will also see the major sections of A.I and then move on to code your very own machine leaning Algorithm to
+interesting ways how A.I can help you. We will also see the major sections of A.I and then move on to code your very own machine leaning Algorithm to
 some of the logical gates such as AND and OR.
 
 ## What is Artificial Intelligence?
@@ -36,6 +36,16 @@ Machine Learning -----> Deep Learning -----> Reinforcement Learning. Other branc
 
 # Machine Learning
 
-We will be focussing mainly on machine learning for the first week getting familiar with the various aspects and the three major categories.
-You will have example codes to follow along and code yourself. Hope you have fun!
+We will be focussing mainly on machine learning for the first week getting familiar with the various aspects and the three major categories. 
+The three main thing that is involved in any machinelearning algorithm are--->
+1. Train 2. Test and 3. Validate.
+Trianing is the main training of the model that you are trying to develop this is the key step. You model prediction depend a lot on 
+how you train more details will follow.
+Validate- Validation set is required to validate how your model performs in unseen data and tries to optimize the model further.
+Test-This is for you to make a sanity check. 
 
+You will have example codes to follow along and code yourself. Hope you have fun!
+## Types of Machine Learning
+There are three main categories of Machine Learning-
+### Supervised
+In this class of machine learning the thing that you are trying to predict has the pre defined label 
