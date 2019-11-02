@@ -24,7 +24,9 @@ have taken days can take one hour or even few minutes if you are using NVIDI TX 
 
 A.I is not magic or some super natural phenomenon which makes your computer suddenly super smart. To burst everyone bubbles it is Math! Specially
 statistics probabilty and differentiation. If you do not know all these. From the word of a legend in the field Dr. Andrew NG--
-![Andrew NG](Week 4/Ag.jpeg)
+<p align="center">
+<img src="./Ag.jpeg" width=200 class="center">
+ </p>
 
 ### Branches of A.I
 
