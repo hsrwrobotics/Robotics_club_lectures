@@ -48,4 +48,17 @@ You will have example codes to follow along and code yourself. Hope you have fun
 ## Types of Machine Learning
 There are three main categories of Machine Learning-
 ### Supervised
-In this class of machine learning the thing that you are trying to predict has the pre defined label 
+In this class of machine learning the thing that you are trying to predict has the pre defined label. From there you have to seperte the data sets into X features and Y the label you are trying to predict. In supervised learing the algorithms tr to learn from already 
+existing data.
+
+### Un-supervised
+Sometimes the data that you recieve might not have any labels attach to eat. This is usually the case of messy data and you ned to make some sense from it. This is where unsupervised learning comes in. That is using these set of algorithms you can have clusters and pattens in data which can be used to group these into specific categories or labels.
+
+### Semi-Supervised 
+This is a class of hybrid algorithms. Once the pattern or clusters of the data is made using unsupervised learning you can apply supervised techniquues to make predictions. This is really powerful specially in case of object recognition using 3-D camera.
+
+### Deep Learning
+Deep Learning is a special calss of machine learning. Unlike machine learning where you deal with a single perceptron (details will follow soon) you deal with multiple such perceptrons with number of different layers.
+
+### Reinforcemnet Learning
+These are the class of algorithm which helps the computer learn on its own. Famous examples include the computer which beat the top player in the game of GO. The most recent one is the computer simulation which taught itself to play hide and seek and come up with insane but logical strategies. 
