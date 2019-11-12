@@ -10,15 +10,16 @@
  1. **[Week 1](#week-1)**
  2. **[Week 2](#week-2)**
  3. **[Week 3](#week-3)**
- 
- 
+ 4. **[Week 4](#week-4)**
+
+
 ## Week 1:
 - In this week, we start the first lecture in Python programming. Python is a high-level, interpreted and general-purpose dynamic programming language that focuses on code readability. It is one of the most three common programming languages in the worlds and is used by Google, Yahoo, NASA, Facebook, Amazon, Instagram, etc.
 - We will use *Anaconda*, a free and open-source distribution of the Python. Depending on your operating system, you need to find the compatible Anaconda packages in [here](https://docs.anaconda.com/anaconda/install/).
 - We recommend using the Spyder IDE for scripting your python codes, since it comes preinstalled with a ton of useful features.
 - An awesome book for Python which we recommend is "Automated the Boring Stuff with Python". You can refer to the online version [here](https://automatetheboringstuff.com/) or download the pdf file [here](http://bit.ly/2W6zTtN).
 - For people who prefer learning with video, we recommend the 6 hours Python Tutorial for Beginners by Mosh [here](https://www.youtube.com/watch?v=_uQrJ0TkZlc).
-- **Agenda**: 
+- **Agenda**:
     - Installing Anaconda Python
     - Datatypes: variables, input, strings, lists, dictionaries
     - Control Flow: if statements, while loop, for loop.
@@ -40,6 +41,15 @@
 - **Agenda**:
     - [Monday][2]: Introduction to classes and error handling
     - [Wednesday][3]: Developing your first text game using OOP
+
+## [Week 4:](https://github.com/hsrwrobotics/Robotics_club_lectures/tree/master/Week%204)
+- Introduction to AI
+- Types of Machine Learning: supervised, un-supervised, semi-supervised, deep learning, reinforcement learning.
+- Developing AND, OR, NOT algorithm with Machine Learning
+
+## [Week 5](https://github.com/hsrwrobotics/Robotics_club_lectures/tree/master/Week%205)
+- Fundamental of supervised learning algorithms
+- Hand-on Machine Learning to predict Red Wine quality from real data
 # The end
 [1]:https://github.com/hsrwrobotics/Robotics_club_lectures/tree/master/Week%202/Functions
 [2]:https://github.com/hsrwrobotics/Robotics_club_lectures/tree/master/Week%203/Monday
