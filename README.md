@@ -51,6 +51,11 @@
 ## [Week 5](https://github.com/hsrwrobotics/Robotics_club_lectures/tree/master/Week%205)
 - Fundamental of supervised learning algorithms
 - Hand-on Machine Learning to predict Red Wine quality from real data
+
+## [Week 6](https://github.com/hsrwrobotics/Robotics_club_lectures/tree/master/Week%206)
+- Hands-on Regression Models
+
+
 # The end
 [1]:https://github.com/hsrwrobotics/Robotics_club_lectures/tree/master/Week%202/Functions
 [2]:https://github.com/hsrwrobotics/Robotics_club_lectures/tree/master/Week%203/Monday
