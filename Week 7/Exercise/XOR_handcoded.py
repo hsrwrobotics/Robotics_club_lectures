@@ -160,14 +160,14 @@ if __name__ == '__main__':
     numpy.random.seed(0)
 
     # Initialize the NeuralNetwork with 2 input, 2 hidden, and 1 output neurons
-    nn = NeuralNetwork([2, 1,  1])
+    nn = NeuralNetwork([2, 8,2,  1])
 
     X = numpy.array([[0, 0],
                      [0, 1],
                      [1, 0],
                      [1, 1]])
 
-    y = numpy.array([0, 0, 0, 1])
+    y = numpy.array([0, 1, 1, 0])
 
     nn.fit(X, y, epochs=10)
 
